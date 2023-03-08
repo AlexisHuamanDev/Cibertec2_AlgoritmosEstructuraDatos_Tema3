@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="entidad.Factura"/>
+    <fullyQualifiedTypeName name="entidad.Empleado"/>
+    <fullyQualifiedTypeName name="semana_03.Movil"/>
+    <fullyQualifiedTypeName name="semana_03.Asesor"/>
+    <fullyQualifiedTypeName name="semana_03.Balon"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="semana_03.Consultor"/>
+</qualifiedTypeNameHistroy>
